@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tarjetas>
+    <tarjetacredito>
+        <sistema>
+            <nombre>Banco1</nombre>
+            <localizacion>Nacional</localizacion>
+        </sistema>
+        <tarjeta>
+            <numero>1234567890</numero>
+            <idCliente>123</idCliente>
+        </tarjeta>
+    </tarjetacredito>
+    <tarjetacredito>
+        <sistema>
+            <nombre>Banco2</nombre>
+            <localizacion>Nacional</localizacion>
+        </sistema>
+        <tarjeta>
+            <numero>0987654321</numero>
+            <idCliente>456</idCliente>
+        </tarjeta>
+    </tarjetacredito>
+</tarjetas>
